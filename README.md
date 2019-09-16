@@ -7,7 +7,7 @@ You are expected to give, a technical feedback to the project as if it's a real 
 
 ## Procedure
 
-1. You should fork this repo as **private** repository
+1. You should fork this repo 
 2. You should do your :sparkles: work
 3. You should open up a [PR](https://help.github.com/en/articles/about-pull-requests) at your **own** forked version of the repository.
 4. You will received feedback for this PR which you are supposed to address during the on-site interview
