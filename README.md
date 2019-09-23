@@ -1,20 +1,26 @@
 # Android Take Home Test
-The purpose of this test is to evaluate the communication and techinical skills of you.
 
-You should exemplify the :muscle: best work you can do with the provided example and perhaps :boom: surprise us.
+The purpose of this test is to evaluate your technical skills, communication and mindset.
+
+You should exemplify the :muscle: best work you can do with the provided example and perhaps :boom: surprise us with your solution. You have *one* week time to work on the test, but this our expectations are a function of the time needed for the test.
 
 You are expected to give, a technical feedback to the project as if it's a real life project in code review format. 
 
 ## Procedure
 
-1. You should fork this repo and make this repository private (duplicate the repository if it's necessary by using GitHub settings.
-2. You should do your :sparkles: work
-3. You should open up a [PR](https://help.github.com/en/articles/about-pull-requests) at your **own** forked version of the repository.
-4. You will received feedback for this PR which you are supposed to address during the on-site interview
+1. You fork this repo and make this repository private (duplicate the repository if it's necessary by using GitHub settings).
+2. You do your :sparkles: work
+3. You open up a [PR](https://help.github.com/en/articles/about-pull-requests) at your **own** forked version of the repository (please consider an appropriate git workflow here).
+4. You will received feedback for this PR which you are supposed to address during the live interview.
 
-> You will have to [add](https://help.github.com/en/articles/inviting-collaborators-to-a-personal-repository) the hiring manager or the reviewers as collaborators to your created repository
+> You will have to [add](https://help.github.com/en/articles/inviting-collaborators-to-a-personal-repository) the [reviewers](#reviewers) to your PR.
 
-## Introduction
+## Reviewers
+
+* [salih-gueler](https://github.com/salih-gueler)
+* [katallaxie](https://github.com/katallaxie)
+
+## Project
 
 In this project, you will have a news feed activity. It retrieves the data from the local JSON file.
 JSON is parsed manually and elements has been created from the parsed data. 
