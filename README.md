@@ -19,6 +19,10 @@ You are expected to give, a technical feedback to the project as if it's a real 
 
 * [salih-gueler](https://github.com/salih-gueler)
 * [katallaxie](https://github.com/katallaxie)
+* [damian-burke](https://github.com/damian-burke)
+* [matthias-siegmund](https://github.com/matthias-siegmund)
+* [thebix](https://github.com/thebix)
+* [dmazgalin](https://github.com/dmazgalin)
 
 ## Project
 
